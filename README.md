@@ -9,5 +9,6 @@ Solution consists of:
 3. Power Automate cloud flows - the main orchestrator that performs the text extraction and use GPT prompts to summarize the extraction results.
 4. AI Builder prompts - a set of prompts based on the required extractions.
 
-Both unmanaged and managed solution copies are provided.
+Download unmanaged solutions:
+(Note: Unmanaged solutions are not to be imported into Test/UAT/Prod environments. Please only import to Dev or personal environments. For more information about unmanaged vs managed solutions: https://learn.microsoft.com/en-us/power-platform/alm/solution-concepts-alm)
 
