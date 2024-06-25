@@ -12,4 +12,5 @@ Solution consists of:
 Download unmanaged solutions:
 (Note: Unmanaged solutions are not to be imported into Test/UAT/Prod environments. Please only import to Dev or personal environments. For more information about unmanaged vs managed solutions: https://learn.microsoft.com/en-us/power-platform/alm/solution-concepts-alm)
 - TSCC Demo: https://github.com/fooshen/TIDemo/raw/main/TSCCPrototype_1_0_0_5%20(unmanaged).zip
+- SDA Demo: https://raw.githubusercontent.com/fooshen/TIDemo/main/SDAPrototype_1_0_0_5.zip
 
